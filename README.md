@@ -2,7 +2,10 @@
 This tutorial uses Tensorflow image classification feature using TensorFlow JS. It uses Serverless environment by leveraging the [Serverless](https://serverless.com/) framework.
 
 **Serverless TensorFlow Architecture**
-![Serverless Architecture](https://github.com/RaghavPrabhu/Deep-Learning/blob/master/serverless_image_tensorflow/img/serverless_architecture.png)
+![serverless_architecture](https://github.com/PranavPatil7/Serverless-image/assets/30521517/5b7b746c-ea78-4158-b6ad-bbc32560a6e1)
+
+
+
 
 Image recognition process using the MobileNet model in serverless cloud functions. 
 
@@ -33,10 +36,12 @@ Image recognition process using the MobileNet model in serverless cloud function
  - You will see the below screen 
  
  - UI Home Screen
- ![Tensorflow Image Home Screen](https://github.com/RaghavPrabhu/Deep-Learning/blob/master/serverless_image_tensorflow/img/home_screen.png)       
+![home_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/d19b149b-3d66-4ee5-b26d-6a9b2dabfbc1)
+    
 
  - UI Input Screen
- ![Tensorflow Image Input Screen](https://github.com/RaghavPrabhu/Deep-Learning/blob/master/serverless_image_tensorflow/img/upload_screen.png)     
+![upload_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/c5b082fb-465e-4a83-82f3-ec6b561849f9)
+![output_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/2bd15f60-18f7-4602-ac41-60840c4f2f2a)   
 
 
  - UI Output Screen
