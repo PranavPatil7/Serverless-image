@@ -41,11 +41,11 @@ Image recognition process using the MobileNet model in serverless cloud function
 
  - UI Input Screen
 ![upload_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/c5b082fb-465e-4a83-82f3-ec6b561849f9)
-![output_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/2bd15f60-18f7-4602-ac41-60840c4f2f2a)   
 
 
  - UI Output Screen
- ![Tensorflow Image Output Screen](https://github.com/RaghavPrabhu/Deep-Learning/blob/master/serverless_image_tensorflow/img/output_screen.png)  
+ ![output_screen](https://github.com/PranavPatil7/Serverless-image/assets/30521517/2bd15f60-18f7-4602-ac41-60840c4f2f2a)   
+
 
  ## Done.
   
